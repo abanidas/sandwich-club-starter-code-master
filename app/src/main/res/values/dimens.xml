@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="sandwich_description_margin_small">4dp</dimen>
+    <dimen name="sandwich_description_margin_large">16dp</dimen>
+    <dimen name="sandwich_text_padding_small">4dp</dimen>
+    <dimen name="sandwich_text_elevation">3dp</dimen>
+</resources>
